@@ -4,4 +4,4 @@ In this Advanced Lab, we search for a heavy particle decaying into a top-antitop
 
 For this lab we used data from the ATLAS experiment at CERN. We followed a typical particle physics workflow: dataset exploration, dataset reduction by event selection, stochastic modelling and model validation, and finally statistical analysis.
 
-Developed collaboratively with Andrea Kutufà.
+Developed collaboratively with Andrea Kutufà in 2025.
