@@ -1,0 +1,28 @@
+Host zprime10
+  Hostname nashira
+  User zprime10
+  IdentityFile ~/.ssh/zprime10_rsa
+  IdentitiesOnly yes
+  ForwardX11 yes
+  ForwardX11Trusted yes
+  ServerAliveInterval 15
+  ProxyJump neptun_zprime10
+
+Host zprime10-backup
+  Hostname arrakis
+  User zprime10
+  IdentityFile ~/.ssh/zprime10_rsa
+  IdentitiesOnly yes
+  ForwardX11 yes
+  ForwardX11Trusted yes
+  ServerAliveInterval 15
+  ProxyJump neptun_zprime10
+
+Host neptun_zprime10
+  Hostname neptun.e4.physik.tu-dortmund.de
+  User zprime10
+  IdentityFile ~/.ssh/zprime10_rsa
+  ForwardX11Trusted yes
+  ForwardX11 yes
+  IdentitiesOnly yes
+  ServerAliveInterval 15

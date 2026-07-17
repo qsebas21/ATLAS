@@ -1,0 +1,420 @@
+[zprime10@nashira Code]$ ./chiSquare.exe
+Vorher
+Nachher
+200
+200
+Computing chi-squared without systematic uncertainties
+Skipping bin 1 (zero uncertainty)
+Skipping bin 2 (zero uncertainty)
+Skipping bin 3 (zero uncertainty)
+Skipping bin 4 (zero uncertainty)
+Skipping bin 5 (zero uncertainty)
+Skipping bin 6 (zero uncertainty)
+Skipping bin 7 (zero uncertainty)
+Skipping bin 8 (zero uncertainty)
+Skipping bin 9 (zero uncertainty)
+Skipping bin 10 (zero uncertainty)
+Skipping bin 11 (zero uncertainty)
+Skipping bin 12 (zero uncertainty)
+Skipping bin 13 (zero uncertainty)
+Skipping bin 14 (zero uncertainty)
+Skipping bin 15 (zero uncertainty)
+Skipping bin 16 (zero uncertainty)
+Skipping bin 17 (zero uncertainty)
+Skipping bin 18 (zero uncertainty)
+Skipping bin 19 (zero uncertainty)
+Skipping bin 20 (zero uncertainty)
+Skipping bin 21 (zero uncertainty)
+Skipping bin 22 (zero uncertainty)
+Skipping bin 23 (zero uncertainty)
+Skipping bin 24 (zero uncertainty)
+Bin 25: data =0, mc = 0.581392, chi2_contrib = 1
+Bin 26: data =2, mc = 0.436037, chi2_contrib = 1.11682
+Bin 27: data =3, mc = 1.46136, chi2_contrib = 0.460982
+Bin 28: data =1, mc = 3.89288, chi2_contrib = 0.518044
+Bin 29: data =11, mc = 8.01116, chi2_contrib = 0.118825
+Bin 30: data =22, mc = 20.1205, chi2_contrib = 0.00827568
+Bin 31: data =33, mc = 33.9499, chi2_contrib = 0.000761003
+Bin 32: data =46, mc = 55.937, chi2_contrib = 0.031101
+Bin 33: data =83, mc = 83.5196, chi2_contrib = 3.82471e-05
+Bin 34: data =97, mc = 119.075, chi2_contrib = 0.0341344
+Bin 35: data =161, mc = 159.865, chi2_contrib = 5.00564e-05
+Bin 36: data =192, mc = 208.867, chi2_contrib = 0.00649301
+Bin 37: data =270, mc = 269.196, chi2_contrib = 8.89287e-06
+Bin 38: data =358, mc = 318.862, chi2_contrib = 0.0150127
+Bin 39: data =389, mc = 412.032, chi2_contrib = 0.00311757
+Bin 40: data =453, mc = 485.572, chi2_contrib = 0.00449103
+Bin 41: data =539, mc = 547.316, chi2_contrib = 0.000230433
+Bin 42: data =621, mc = 621.745, chi2_contrib = 1.43534e-06
+Bin 43: data =630, mc = 693.827, chi2_contrib = 0.00845151
+Bin 44: data =716, mc = 752.186, chi2_contrib = 0.00231147
+Bin 45: data =752, mc = 808.389, chi2_contrib = 0.0048602
+Bin 46: data =863, mc = 847.999, chi2_contrib = 0.000312556
+Bin 47: data =797, mc = 883.795, chi2_contrib = 0.00963475
+Bin 48: data =902, mc = 922.01, chi2_contrib = 0.000470489
+Bin 49: data =866, mc = 947.108, chi2_contrib = 0.00732674
+Bin 50: data =951, mc = 940.781, chi2_contrib = 0.000117852
+Bin 51: data =959, mc = 974.336, chi2_contrib = 0.000247511
+Bin 52: data =948, mc = 986.014, chi2_contrib = 0.00148494
+Bin 53: data =972, mc = 985.858, chi2_contrib = 0.000197404
+Bin 54: data =1017, mc = 1011.95, chi2_contrib = 2.48904e-05
+Bin 55: data =952, mc = 986.814, chi2_contrib = 0.00124343
+Bin 56: data =975, mc = 960.192, chi2_contrib = 0.000237592
+Bin 57: data =938, mc = 978.022, chi2_contrib = 0.00167291
+Bin 58: data =970, mc = 966.399, chi2_contrib = 1.38689e-05
+Bin 59: data =949, mc = 933.991, chi2_contrib = 0.00025797
+Bin 60: data =905, mc = 930.928, chi2_contrib = 0.000774936
+Bin 61: data =888, mc = 903.504, chi2_contrib = 0.000294135
+Bin 62: data =873, mc = 871.908, chi2_contrib = 1.56706e-06
+Bin 63: data =846, mc = 858.35, chi2_contrib = 0.000206782
+Bin 64: data =809, mc = 827.527, chi2_contrib = 0.000500657
+Bin 65: data =746, mc = 810.501, chi2_contrib = 0.00632605
+Bin 66: data =797, mc = 789.941, chi2_contrib = 7.97471e-05
+Bin 67: data =758, mc = 763.797, chi2_contrib = 5.75289e-05
+Bin 68: data =750, mc = 719.555, chi2_contrib = 0.00178761
+Bin 69: data =705, mc = 710.922, chi2_contrib = 6.92955e-05
+Bin 70: data =658, mc = 684.006, chi2_contrib = 0.00144354
+Bin 71: data =717, mc = 674.096, chi2_contrib = 0.00404462
+Bin 72: data =650, mc = 658.999, chi2_contrib = 0.000186207
+Bin 73: data =598, mc = 628.617, chi2_contrib = 0.00236858
+Bin 74: data =566, mc = 592.44, chi2_contrib = 0.00198859
+Bin 75: data =568, mc = 589.585, chi2_contrib = 0.00133819
+Bin 76: data =557, mc = 563.809, chi2_contrib = 0.000145576
+Bin 77: data =566, mc = 539.997, chi2_contrib = 0.00231429
+Bin 78: data =514, mc = 519.298, chi2_contrib = 0.000103887
+Bin 79: data =513, mc = 501.267, chi2_contrib = 0.000546734
+Bin 80: data =497, mc = 471.832, chi2_contrib = 0.00283892
+Bin 81: data =450, mc = 472.796, chi2_contrib = 0.00232009
+Bin 82: data =464, mc = 445.038, chi2_contrib = 0.00181126
+Bin 83: data =444, mc = 429.797, chi2_contrib = 0.00108946
+Bin 84: data =418, mc = 416.046, chi2_contrib = 2.19968e-05
+Bin 85: data =409, mc = 387.61, chi2_contrib = 0.00303717
+Bin 86: data =383, mc = 378.169, chi2_contrib = 0.000162738
+Bin 87: data =391, mc = 365.432, chi2_contrib = 0.0048812
+Bin 88: data =353, mc = 351.792, chi2_contrib = 1.17657e-05
+Bin 89: data =339, mc = 335.305, chi2_contrib = 0.000121098
+Bin 90: data =335, mc = 335.122, chi2_contrib = 1.3209e-07
+Bin 91: data =341, mc = 322.778, chi2_contrib = 0.00317676
+Bin 92: data =302, mc = 298.497, chi2_contrib = 0.000137228
+Bin 93: data =313, mc = 301.843, chi2_contrib = 0.00136166
+Bin 94: data =299, mc = 288.717, chi2_contrib = 0.00126405
+Bin 95: data =273, mc = 272.457, chi2_contrib = 3.9507e-06
+Bin 96: data =232, mc = 261.614, chi2_contrib = 0.0127706
+Bin 97: data =219, mc = 247.624, chi2_contrib = 0.0133143
+Bin 98: data =267, mc = 240.586, chi2_contrib = 0.011999
+Bin 99: data =246, mc = 230.152, chi2_contrib = 0.00471937
+Bin 100: data =222, mc = 213.391, chi2_contrib = 0.00161962
+Bin 101: data =237, mc = 213.657, chi2_contrib = 0.0118749
+Bin 102: data =209, mc = 202.496, chi2_contrib = 0.00102648
+Bin 103: data =210, mc = 201.302, chi2_contrib = 0.00185757
+Bin 104: data =186, mc = 197.449, chi2_contrib = 0.00334619
+Bin 105: data =194, mc = 184.029, chi2_contrib = 0.00291884
+Bin 106: data =200, mc = 182.161, chi2_contrib = 0.00953293
+Bin 107: data =172, mc = 168.565, chi2_contrib = 0.000412662
+Bin 108: data =168, mc = 164.288, chi2_contrib = 0.000507482
+Bin 109: data =155, mc = 156.933, chi2_contrib = 0.000150766
+Bin 110: data =150, mc = 156.203, chi2_contrib = 0.00156744
+Bin 111: data =128, mc = 148.869, chi2_contrib = 0.0195383
+Bin 112: data =150, mc = 136.195, chi2_contrib = 0.0101918
+Bin 113: data =149, mc = 132.934, chi2_contrib = 0.0144837
+Bin 114: data =138, mc = 138.519, chi2_contrib = 1.392e-05
+Bin 115: data =141, mc = 121.618, chi2_contrib = 0.0251577
+Bin 116: data =112, mc = 119.13, chi2_contrib = 0.00355389
+Bin 117: data =126, mc = 111.867, chi2_contrib = 0.0158033
+Bin 118: data =125, mc = 110.111, chi2_contrib = 0.0180986
+Bin 119: data =133, mc = 107.334, chi2_contrib = 0.0565253
+Bin 120: data =121, mc = 107.365, chi2_contrib = 0.015961
+Bin 121: data =118, mc = 105.381, chi2_contrib = 0.0141884
+Bin 122: data =76, mc = 98.3232, chi2_contrib = 0.0511445
+Bin 123: data =95, mc = 98.7146, chi2_contrib = 0.00140233
+Bin 124: data =92, mc = 87.2764, chi2_contrib = 0.00289431
+Bin 125: data =85, mc = 81.8709, chi2_contrib = 0.0014425
+Bin 126: data =91, mc = 85.8107, chi2_contrib = 0.00361241
+Bin 127: data =84, mc = 84.6661, chi2_contrib = 6.11814e-05
+Bin 128: data =84, mc = 78.0856, chi2_contrib = 0.00565887
+Bin 129: data =85, mc = 80.9483, chi2_contrib = 0.00247322
+Bin 130: data =89, mc = 75.596, chi2_contrib = 0.0309569
+Bin 131: data =88, mc = 73.5858, chi2_contrib = 0.0377565
+Bin 132: data =50, mc = 71.4339, chi2_contrib = 0.0891578
+Bin 133: data =67, mc = 62.9381, chi2_contrib = 0.00409582
+Bin 134: data =69, mc = 65.7724, chi2_contrib = 0.00237034
+Bin 135: data =61, mc = 62.6005, chi2_contrib = 0.000643672
+Bin 136: data =66, mc = 58.1345, chi2_contrib = 0.0179551
+Bin 137: data =57, mc = 59.9334, chi2_contrib = 0.00235814
+Bin 138: data =46, mc = 57.0064, chi2_contrib = 0.0367571
+Bin 139: data =61, mc = 60.522, chi2_contrib = 6.13551e-05
+Bin 140: data =57, mc = 54.4295, chi2_contrib = 0.00218819
+Bin 141: data =50, mc = 53.6739, chi2_contrib = 0.00460532
+Bin 142: data =55, mc = 50.8915, chi2_contrib = 0.00638174
+Bin 143: data =45, mc = 47.0598, chi2_contrib = 0.00187773
+Bin 144: data =51, mc = 48.2439, chi2_contrib = 0.0031937
+Bin 145: data =58, mc = 46.5018, chi2_contrib = 0.059542
+Bin 146: data =49, mc = 44.8001, chi2_contrib = 0.00857896
+Bin 147: data =52, mc = 45.0282, chi2_contrib = 0.0233732
+Bin 148: data =46, mc = 39.941, chi2_contrib = 0.0223673
+Bin 149: data =42, mc = 37.4142, chi2_contrib = 0.0145851
+Bin 150: data =36, mc = 35.8521, chi2_contrib = 1.65594e-05
+Bin 151: data =44, mc = 36.8843, chi2_contrib = 0.036052
+Bin 152: data =43, mc = 34.1876, chi2_contrib = 0.0640858
+Bin 153: data =31, mc = 32.9844, chi2_contrib = 0.0035191
+Bin 154: data =34, mc = 33.1038, chi2_contrib = 0.000710858
+Bin 155: data =38, mc = 31.9373, chi2_contrib = 0.0347418
+Bin 156: data =34, mc = 31.5434, chi2_contrib = 0.00586494
+Bin 157: data =40, mc = 30.5733, chi2_contrib = 0.0911663
+Bin 158: data =29, mc = 28.7435, chi2_contrib = 7.69078e-05
+Bin 159: data =25, mc = 31.5648, chi2_contrib = 0.042196
+Bin 160: data =33, mc = 29.4625, chi2_contrib = 0.013888
+Bin 161: data =22, mc = 27.6207, chi2_contrib = 0.0402496
+Bin 162: data =23, mc = 25.4841, chi2_contrib = 0.00917663
+Bin 163: data =26, mc = 26.4418, chi2_contrib = 0.00026911
+Bin 164: data =31, mc = 26.1023, chi2_contrib = 0.0336749
+Bin 165: data =27, mc = 23.0717, chi2_contrib = 0.0275907
+Bin 166: data =29, mc = 22.184, chi2_contrib = 0.0891497
+Bin 167: data =24, mc = 22.8568, chi2_contrib = 0.00239174
+Bin 168: data =23, mc = 24.9068, chi2_contrib = 0.00565126
+Bin 169: data =28, mc = 22.1231, chi2_contrib = 0.0667502
+Bin 170: data =21, mc = 23.6925, chi2_contrib = 0.0124491
+Bin 171: data =18, mc = 19.0127, chi2_contrib = 0.00270246
+Bin 172: data =22, mc = 19.9632, chi2_contrib = 0.00986526
+Bin 173: data =16, mc = 16.7163, chi2_contrib = 0.00173693
+Bin 174: data =17, mc = 17.0233, chi2_contrib = 1.76612e-06
+Bin 175: data =15, mc = 17.4862, chi2_contrib = 0.0192702
+Bin 176: data =17, mc = 17.6589, chi2_contrib = 0.00132041
+Bin 177: data =12, mc = 17.2232, chi2_contrib = 0.0883935
+Bin 178: data =15, mc = 16.5902, chi2_contrib = 0.00871317
+Bin 179: data =16, mc = 14.62, chi2_contrib = 0.00828906
+Bin 180: data =16, mc = 12.8572, chi2_contrib = 0.0544792
+Bin 181: data =20, mc = 14.4525, chi2_contrib = 0.134461
+Bin 182: data =19, mc = 14.463, chi2_contrib = 0.0902124
+Bin 183: data =14, mc = 13.9336, chi2_contrib = 2.11794e-05
+Bin 184: data =15, mc = 13.608, chi2_contrib = 0.00967941
+Bin 185: data =12, mc = 12.9034, chi2_contrib = 0.00457247
+Bin 186: data =6, mc = 12.8561, chi2_contrib = 0.274442
+Bin 187: data =13, mc = 13.577, chi2_contrib = 0.00168717
+Bin 188: data =21, mc = 12.9077, chi2_contrib = 0.349046
+Bin 189: data =12, mc = 12.6115, chi2_contrib = 0.00218614
+Bin 190: data =10, mc = 11.4617, chi2_contrib = 0.0151124
+Bin 191: data =5, mc = 11.0549, chi2_contrib = 0.288197
+Bin 192: data =14, mc = 11.0963, chi2_contrib = 0.0614882
+Bin 193: data =12, mc = 11.7376, chi2_contrib = 0.000459735
+Bin 194: data =15, mc = 11.376, chi2_contrib = 0.0909461
+Bin 195: data =12, mc = 9.71274, chi2_contrib = 0.0491979
+Bin 196: data =7, mc = 9.44919, chi2_contrib = 0.0622983
+Bin 197: data =12, mc = 11.5368, chi2_contrib = 0.00147836
+Bin 198: data =11, mc = 8.72787, chi2_contrib = 0.0592201
+Bin 199: data =12, mc = 9.06862, chi2_contrib = 0.091182
+Bin 200: data =9, mc = 10.2672, chi2_contrib = 0.0140343
+Data/MC agreement (Chi^2) is: 6.48707
+p-Value is: 1
+
+
+
+[zprime10@nashira Code]$ ./chiSquare.exe
+Vorher
+Nachher
+200
+200
+Computing chi-squared with systematic uncertainties
+Skipping bin 1 (zero uncertainty)
+Skipping bin 2 (zero uncertainty)
+Skipping bin 3 (zero uncertainty)
+Skipping bin 4 (zero uncertainty)
+Skipping bin 5 (zero uncertainty)
+Skipping bin 6 (zero uncertainty)
+Skipping bin 7 (zero uncertainty)
+Skipping bin 8 (zero uncertainty)
+Skipping bin 9 (zero uncertainty)
+Skipping bin 10 (zero uncertainty)
+Skipping bin 11 (zero uncertainty)
+Skipping bin 12 (zero uncertainty)
+Skipping bin 13 (zero uncertainty)
+Skipping bin 14 (zero uncertainty)
+Skipping bin 15 (zero uncertainty)
+Skipping bin 16 (zero uncertainty)
+Skipping bin 17 (zero uncertainty)
+Skipping bin 18 (zero uncertainty)
+Skipping bin 19 (zero uncertainty)
+Skipping bin 20 (zero uncertainty)
+Skipping bin 21 (zero uncertainty)
+Skipping bin 22 (zero uncertainty)
+Skipping bin 23 (zero uncertainty)
+Skipping bin 24 (zero uncertainty)
+Bin 25: data =0, mc = 0.581392, chi2_contrib = 1
+Bin 26: data =2, mc = 0.436037, chi2_contrib = 1.07822
+Bin 27: data =3, mc = 1.46136, chi2_contrib = 0.445674
+Bin 28: data =1, mc = 3.89288, chi2_contrib = 0.517417
+Bin 29: data =11, mc = 8.01116, chi2_contrib = 0.115192
+Bin 30: data =22, mc = 20.1205, chi2_contrib = 0.00809575
+Bin 31: data =33, mc = 33.9499, chi2_contrib = 0.000747545
+Bin 32: data =46, mc = 55.937, chi2_contrib = 0.0307
+Bin 33: data =83, mc = 83.5196, chi2_contrib = 3.75292e-05
+Bin 34: data =97, mc = 119.075, chi2_contrib = 0.033699
+Bin 35: data =161, mc = 159.865, chi2_contrib = 4.90867e-05
+Bin 36: data =192, mc = 208.867, chi2_contrib = 0.00638768
+Bin 37: data =270, mc = 269.196, chi2_contrib = 8.72154e-06
+Bin 38: data =358, mc = 318.862, chi2_contrib = 0.014652
+Bin 39: data =389, mc = 412.032, chi2_contrib = 0.00306416
+Bin 40: data =453, mc = 485.572, chi2_contrib = 0.00441585
+Bin 41: data =539, mc = 547.316, chi2_contrib = 0.000226142
+Bin 42: data =621, mc = 621.745, chi2_contrib = 1.40785e-06
+Bin 43: data =630, mc = 693.827, chi2_contrib = 0.00831728
+Bin 44: data =716, mc = 752.186, chi2_contrib = 0.00227119
+Bin 45: data =752, mc = 808.389, chi2_contrib = 0.00477923
+Bin 46: data =863, mc = 847.999, chi2_contrib = 0.000306345
+Bin 47: data =797, mc = 883.795, chi2_contrib = 0.00948374
+Bin 48: data =902, mc = 922.01, chi2_contrib = 0.000461835
+Bin 49: data =866, mc = 947.108, chi2_contrib = 0.00720873
+Bin 50: data =951, mc = 940.781, chi2_contrib = 0.00011554
+Bin 51: data =959, mc = 974.336, chi2_contrib = 0.000242904
+Bin 52: data =948, mc = 986.014, chi2_contrib = 0.00145854
+Bin 53: data =972, mc = 985.858, chi2_contrib = 0.000193717
+Bin 54: data =1017, mc = 1011.95, chi2_contrib = 2.44077e-05
+Bin 55: data =952, mc = 986.814, chi2_contrib = 0.00122117
+Bin 56: data =975, mc = 960.192, chi2_contrib = 0.00023289
+Bin 57: data =938, mc = 978.022, chi2_contrib = 0.00164331
+Bin 58: data =970, mc = 966.399, chi2_contrib = 1.36006e-05
+Bin 59: data =949, mc = 933.991, chi2_contrib = 0.000252859
+Bin 60: data =905, mc = 930.928, chi2_contrib = 0.000760857
+Bin 61: data =888, mc = 903.504, chi2_contrib = 0.000288675
+Bin 62: data =873, mc = 871.908, chi2_contrib = 1.5369e-06
+Bin 63: data =846, mc = 858.35, chi2_contrib = 0.000202923
+Bin 64: data =809, mc = 827.527, chi2_contrib = 0.000491462
+Bin 65: data =746, mc = 810.501, chi2_contrib = 0.00622284
+Bin 66: data =797, mc = 789.941, chi2_contrib = 7.81891e-05
+Bin 67: data =758, mc = 763.797, chi2_contrib = 5.64408e-05
+Bin 68: data =750, mc = 719.555, chi2_contrib = 0.00175039
+Bin 69: data =705, mc = 710.922, chi2_contrib = 6.79869e-05
+Bin 70: data =658, mc = 684.006, chi2_contrib = 0.00141786
+Bin 71: data =717, mc = 674.096, chi2_contrib = 0.00395701
+Bin 72: data =650, mc = 658.999, chi2_contrib = 0.000182727
+Bin 73: data =598, mc = 628.617, chi2_contrib = 0.00232736
+Bin 74: data =566, mc = 592.44, chi2_contrib = 0.0019537
+Bin 75: data =568, mc = 589.585, chi2_contrib = 0.00131432
+Bin 76: data =557, mc = 563.809, chi2_contrib = 0.000142849
+Bin 77: data =566, mc = 539.997, chi2_contrib = 0.0022656
+Bin 78: data =514, mc = 519.298, chi2_contrib = 0.000101933
+Bin 79: data =513, mc = 501.267, chi2_contrib = 0.000535758
+Bin 80: data =497, mc = 471.832, chi2_contrib = 0.00277863
+Bin 81: data =450, mc = 472.796, chi2_contrib = 0.00227969
+Bin 82: data =464, mc = 445.038, chi2_contrib = 0.00177356
+Bin 83: data =444, mc = 429.797, chi2_contrib = 0.00106719
+Bin 84: data =418, mc = 416.046, chi2_contrib = 2.15711e-05
+Bin 85: data =409, mc = 387.61, chi2_contrib = 0.00297247
+Bin 86: data =383, mc = 378.169, chi2_contrib = 0.000159539
+Bin 87: data =391, mc = 365.432, chi2_contrib = 0.00477439
+Bin 88: data =353, mc = 351.792, chi2_contrib = 1.15386e-05
+Bin 89: data =339, mc = 335.305, chi2_contrib = 0.000118727
+Bin 90: data =335, mc = 335.122, chi2_contrib = 1.2956e-07
+Bin 91: data =341, mc = 322.778, chi2_contrib = 0.00310897
+Bin 92: data =302, mc = 298.497, chi2_contrib = 0.000134538
+Bin 93: data =313, mc = 301.843, chi2_contrib = 0.00133365
+Bin 94: data =299, mc = 288.717, chi2_contrib = 0.00123811
+Bin 95: data =273, mc = 272.457, chi2_contrib = 3.87473e-06
+Bin 96: data =232, mc = 261.614, chi2_contrib = 0.0125774
+Bin 97: data =219, mc = 247.624, chi2_contrib = 0.013114
+Bin 98: data =267, mc = 240.586, chi2_contrib = 0.0117174
+Bin 99: data =246, mc = 230.152, chi2_contrib = 0.00461648
+Bin 100: data =222, mc = 213.391, chi2_contrib = 0.00158614
+Bin 101: data =237, mc = 213.657, chi2_contrib = 0.0115966
+Bin 102: data =209, mc = 202.496, chi2_contrib = 0.00100559
+Bin 103: data =210, mc = 201.302, chi2_contrib = 0.00181897
+Bin 104: data =186, mc = 197.449, chi2_contrib = 0.00328925
+Bin 105: data =194, mc = 184.029, chi2_contrib = 0.00285697
+Bin 106: data =200, mc = 182.161, chi2_contrib = 0.00931418
+Bin 107: data =172, mc = 168.565, chi2_contrib = 0.000404458
+Bin 108: data =168, mc = 164.288, chi2_contrib = 0.000497351
+Bin 109: data =155, mc = 156.933, chi2_contrib = 0.000147955
+Bin 110: data =150, mc = 156.203, chi2_contrib = 0.00153978
+Bin 111: data =128, mc = 148.869, chi2_contrib = 0.0192608
+Bin 112: data =150, mc = 136.195, chi2_contrib = 0.009957
+Bin 113: data =149, mc = 132.934, chi2_contrib = 0.0141384
+Bin 114: data =138, mc = 138.519, chi2_contrib = 1.36562e-05
+Bin 115: data =141, mc = 121.618, chi2_contrib = 0.0245178
+Bin 116: data =112, mc = 119.13, chi2_contrib = 0.00349384
+Bin 117: data =126, mc = 111.867, chi2_contrib = 0.0154236
+Bin 118: data =125, mc = 110.111, chi2_contrib = 0.0176572
+Bin 119: data =133, mc = 107.334, chi2_contrib = 0.0548922
+Bin 120: data =121, mc = 107.365, chi2_contrib = 0.0155772
+Bin 121: data =118, mc = 105.381, chi2_contrib = 0.0138516
+Bin 122: data =76, mc = 98.3232, chi2_contrib = 0.0505571
+Bin 123: data =95, mc = 98.7146, chi2_contrib = 0.00137756
+Bin 124: data =92, mc = 87.2764, chi2_contrib = 0.00283334
+Bin 125: data =85, mc = 81.8709, chi2_contrib = 0.00141303
+Bin 126: data =91, mc = 85.8107, chi2_contrib = 0.00353543
+Bin 127: data =84, mc = 84.6661, chi2_contrib = 6.00365e-05
+Bin 128: data =84, mc = 78.0856, chi2_contrib = 0.00553503
+Bin 129: data =85, mc = 80.9483, chi2_contrib = 0.00242156
+Bin 130: data =89, mc = 75.596, chi2_contrib = 0.0301504
+Bin 131: data =88, mc = 73.5858, chi2_contrib = 0.036743
+Bin 132: data =50, mc = 71.4339, chi2_contrib = 0.088318
+Bin 133: data =67, mc = 62.9381, chi2_contrib = 0.00400827
+Bin 134: data =69, mc = 65.7724, chi2_contrib = 0.00232106
+Bin 135: data =61, mc = 62.6005, chi2_contrib = 0.000632089
+Bin 136: data =66, mc = 58.1345, chi2_contrib = 0.017521
+Bin 137: data =57, mc = 59.9334, chi2_contrib = 0.00231769
+Bin 138: data =46, mc = 57.0064, chi2_contrib = 0.0363003
+Bin 139: data =61, mc = 60.522, chi2_contrib = 6.01765e-05
+Bin 140: data =57, mc = 54.4295, chi2_contrib = 0.002143
+Bin 141: data =50, mc = 53.6739, chi2_contrib = 0.00452959
+Bin 142: data =55, mc = 50.8915, chi2_contrib = 0.00624182
+Bin 143: data =45, mc = 47.0598, chi2_contrib = 0.00184532
+Bin 144: data =51, mc = 48.2439, chi2_contrib = 0.00312668
+Bin 145: data =58, mc = 46.5018, chi2_contrib = 0.0578249
+Bin 146: data =49, mc = 44.8001, chi2_contrib = 0.00838699
+Bin 147: data =52, mc = 45.0282, chi2_contrib = 0.0227923
+Bin 148: data =46, mc = 39.941, chi2_contrib = 0.021816
+Bin 149: data =42, mc = 37.4142, chi2_contrib = 0.0142435
+Bin 150: data =36, mc = 35.8521, chi2_contrib = 1.6247e-05
+Bin 151: data =44, mc = 36.8843, chi2_contrib = 0.0351035
+Bin 152: data =43, mc = 34.1876, chi2_contrib = 0.0622249
+Bin 153: data =31, mc = 32.9844, chi2_contrib = 0.00346084
+Bin 154: data =34, mc = 33.1038, chi2_contrib = 0.000696883
+Bin 155: data =38, mc = 31.9373, chi2_contrib = 0.0338366
+Bin 156: data =34, mc = 31.5434, chi2_contrib = 0.00573858
+Bin 157: data =40, mc = 30.5733, chi2_contrib = 0.0883247
+Bin 158: data =29, mc = 28.7435, chi2_contrib = 7.54534e-05
+Bin 159: data =25, mc = 31.5648, chi2_contrib = 0.0416959
+Bin 160: data =33, mc = 29.4625, chi2_contrib = 0.0135666
+Bin 161: data =22, mc = 27.6207, chi2_contrib = 0.039769
+Bin 162: data =23, mc = 25.4841, chi2_contrib = 0.00903729
+Bin 163: data =26, mc = 26.4418, chi2_contrib = 0.000264281
+Bin 164: data =31, mc = 26.1023, chi2_contrib = 0.0328074
+Bin 165: data =27, mc = 23.0717, chi2_contrib = 0.0269034
+Bin 166: data =29, mc = 22.184, chi2_contrib = 0.0864163
+Bin 167: data =24, mc = 22.8568, chi2_contrib = 0.00234333
+Bin 168: data =23, mc = 24.9068, chi2_contrib = 0.00556162
+Bin 169: data =28, mc = 22.1231, chi2_contrib = 0.064825
+Bin 170: data =21, mc = 23.6925, chi2_contrib = 0.012267
+Bin 171: data =18, mc = 19.0127, chi2_contrib = 0.00265798
+Bin 172: data =22, mc = 19.9632, chi2_contrib = 0.00964763
+Bin 173: data =16, mc = 16.7163, chi2_contrib = 0.00170792
+Bin 174: data =17, mc = 17.0233, chi2_contrib = 1.7341e-06
+Bin 175: data =15, mc = 17.4862, chi2_contrib = 0.0190088
+Bin 176: data =17, mc = 17.6589, chi2_contrib = 0.00129805
+Bin 177: data =12, mc = 17.2232, chi2_contrib = 0.0875925
+Bin 178: data =15, mc = 16.5902, chi2_contrib = 0.00858276
+Bin 179: data =16, mc = 14.62, chi2_contrib = 0.0081119
+Bin 180: data =16, mc = 12.8572, chi2_contrib = 0.0530121
+Bin 181: data =20, mc = 14.4525, chi2_contrib = 0.130008
+Bin 182: data =19, mc = 14.463, chi2_contrib = 0.0874991
+Bin 183: data =14, mc = 13.9336, chi2_contrib = 2.07956e-05
+Bin 184: data =15, mc = 13.608, chi2_contrib = 0.00947076
+Bin 185: data =12, mc = 12.9034, chi2_contrib = 0.0045013
+Bin 186: data =6, mc = 12.8561, chi2_contrib = 0.273316
+Bin 187: data =13, mc = 13.577, chi2_contrib = 0.00165932
+Bin 188: data =21, mc = 12.9077, chi2_contrib = 0.333673
+Bin 189: data =12, mc = 12.6115, chi2_contrib = 0.00215066
+Bin 190: data =10, mc = 11.4617, chi2_contrib = 0.0149058
+Bin 191: data =5, mc = 11.0549, chi2_contrib = 0.287091
+Bin 192: data =14, mc = 11.0963, chi2_contrib = 0.0598125
+Bin 193: data =12, mc = 11.7376, chi2_contrib = 0.000451232
+Bin 194: data =15, mc = 11.376, chi2_contrib = 0.0882511
+Bin 195: data =12, mc = 9.71274, chi2_contrib = 0.0479259
+Bin 196: data =7, mc = 9.44919, chi2_contrib = 0.061683
+Bin 197: data =12, mc = 11.5368, chi2_contrib = 0.00145016
+Bin 198: data =11, mc = 8.72787, chi2_contrib = 0.0576517
+Bin 199: data =12, mc = 9.06862, chi2_contrib = 0.0885306
+Bin 200: data =9, mc = 10.2672, chi2_contrib = 0.0138422
+Data/MC agreement (Chi^2) is: 6.35709
+p-Value is: 1
+

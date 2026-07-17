@@ -1,0 +1,16 @@
+Here are the things you need to consider to easily connect to the E4 infrastructure:
+
+You've received an example of the SSH configuration and your private SSH key from me. Note that the ssh key is only for a specific zprime account. There are 10 different zprime accounts numbered from 1-10. So make sure that you replace the numbers properly in your ssh config so that it works properly. This example uses zprime10. The following instructions apply only to Linux/Mac/WSL users.
+
+1. Copy the SSH key to your .ssh home directory: "cp zprime10 ~/.ssh/."
+2. Add the entries from the SSH example config to your SSH config, or if you don't have a config yet, copy the example config to the following location and rename it: "cp example_ssh_config.txt ~/.ssh/config"
+3. Make sure the SSH key has the correct permissions: "chmod 600 ~/.ssh/zprime10"
+4. Connect to the E4 infrastructure via "ssh zprime10". With this command, you should be directly on the correct workstation, nashira
+
+Root should be sourced automatically. Warning: Sourcing root only works when you are on a workstation, in your case nashira. Do not work on Neptun, you actually can not work on Neptun as it does not support the software that is needed! Neptun is only a gateway, as it is the only "workstation" visible outside the university network. That's also why you need two entries in your SSH config.
+
+I highly recommend (especially for windows users) to use VSCode. You can use VSCode with the ssh extension, then you can open the command promt (using the search bar and typing ">" or by pressing crtl+shift+p (might be different for you)) and type "SSH Config" which should yhow you the option to edit the config file for VSCode (useful for windows for linux this is your default one so you might not need to change it again).
+Then change your config accordingly to the example_ssh_config, then you can run the command "Connect to host" and select the name "zprime10", this will open a new window and you're connected to our infrastructure. 
+There you can open a folder (with ctrl+k ctrl+o in succession or in the menu) and select your analysis folder to have easy access to all files and plots. 
+
+If you have any problems or questions, just ask! I'm happy to help :)
